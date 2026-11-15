@@ -1,6 +1,7 @@
 # cos802-rag-university-qa
 # Evaluating Retrieval-Augmented Generation for Knowledge-Grounded Question Answering Using Public University Documents
 
+
 ## Overview
 This project investigates whether Retrieval-Augmented Generation (RAG) can improve the accuracy, relevance, and grounding of answers generated from university documentation compared to a standalone language model.
 
@@ -181,6 +182,14 @@ Maintaining a fixed document corpus ensures that experiments remain reproducible
 * Investigate cross-institution retrieval performance.
 
 ---
+## Installation
+Clone the repository:
+
+git clone https://github.com/MCMthethwa/cos802-rag-university-qa.git
+cd cos802-rag-university-qa
+
+## Install project dependencies:
+pip install -r requirements.txt
 
 ## Author
 **Makhosazane Mthethwa**  
