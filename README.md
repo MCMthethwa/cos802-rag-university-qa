@@ -9,21 +9,6 @@ A knowledge base was constructed from publicly available documents from the Univ
 
 ---
 
-## Results Snapshot
-
-| Metric | Result |
-| :--- | :--- |
-| Documents Indexed | 9 |
-| Chunks Generated | 1,062 |
-| Top-5 Retrieval Accuracy | 90% |
-| Average Baseline Score | 0.05 |
-| Average RAG Score | 0.70 |
-| RAG Wins | 8 |
-| Baseline Wins | 0 |
-| Ties | 2 |
-
----
-
 ## Research Question
 > Can Retrieval-Augmented Generation improve the accuracy and relevance of answers generated from university documents compared to a standalone language model?
 
