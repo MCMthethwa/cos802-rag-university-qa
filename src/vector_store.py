@@ -75,7 +75,6 @@ def search_index(
     results = []
 
     for idx in indices[0]:
-
         results.append(
             {
                 "source": sources[idx],
@@ -130,9 +129,7 @@ def retrieve_context(
 
 if __name__ == "__main__":
 
-    sample_embeddings = np.random.rand(
-        5,
-        384
+    sample_embeddings = np.random.rand        384
     ).astype("float32")
 
     index = create_index(
